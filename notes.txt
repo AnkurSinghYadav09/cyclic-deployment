@@ -1,0 +1,12 @@
+**deployment**
+
+   1] make a basic application 
+     how to deploym it
+
+                how many platforms are there?
+                    -- render--->>  slow 
+                    -- vercel ---> it is just to deploy frontend 
+                    -- netlify  ---> frontend deployment
+                    -- railway   --> slow
+                    -- heroku   -- very fast but paid
+               ******     -- cyclic    -->  fast and one deployment is free.  ********
